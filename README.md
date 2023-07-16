@@ -1,1 +1,1 @@
-# Talk-GTP
+# Talk-GPT
